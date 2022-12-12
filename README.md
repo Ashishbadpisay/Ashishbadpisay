@@ -6,7 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishbadpisay&label=Profile%20views&color=0e75b6&style=flat" alt="ashishbadpisay" /> </p>
 
 - 🌱 I’m currently learning **Database SQL**
-
+-💬 Ask me about DSA , Java,JavaScript
+⚡ Fun fact I am not funny at all.
 - 📫 How to reach me **ashisrnj824113@gmail.com**
 
 - 📄 Know about my experiences [My Cv](https://drive.google.com/file/d/1euiFX1pCFSW-3XCpq8Bg0RJcDV6dNoOb/view?usp=sharing)
