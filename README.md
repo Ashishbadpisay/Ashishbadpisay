@@ -15,7 +15,9 @@
 
 - 📫 How to reach me **ashisrnj824113@gmail.com**
 
-- 📄 Know about my experiences [My Cv](https://drive.google.com/file/d/1euiFX1pCFSW-3XCpq8Bg0RJcDV6dNoOb/view?usp=sharing)
+- 📄 Know about my me [My Cv](https://drive.google.com/file/d/1euiFX1pCFSW-3XCpq8Bg0RJcDV6dNoOb/view?usp=sharing)
+ 
+  Look at my Portfolio [portfolio](https://ashishbadpisay.github.io/);
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
