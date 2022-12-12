@@ -11,7 +11,7 @@
  
 - 💬 Ask me about DSA , Java,JavaScript
 
--⚡ Fun fact I am not funny at all.
+- ⚡ Fun fact I am not funny at all.
 
 - 📫 How to reach me **ashisrnj824113@gmail.com**
 
